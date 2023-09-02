@@ -1,7 +1,7 @@
 import "./App.css";
 import Home from "./Pages/Home";
 import Navbar from "./Components/Navbar/Navbar";
-import { FaAmilia, FaFacebookF } from "react-icons/fa6";
+// import { FaAmilia, FaFacebookF } from "react-icons/fa6";
 import Ryde from "./Pages/Ryde/Ryde";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import RydeRail from "./Pages/RydeRail";

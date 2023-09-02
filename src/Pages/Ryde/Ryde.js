@@ -6,7 +6,7 @@ import RydeFooter from "../../Components/Footer/Ryde/RydeFooter";
 import CustomerReviews from "../../Components/Ryde/CustomerReviews/CustomerReviews";
 import MoreAboutRyde from "../../Components/Ryde/MoreAboutRyde";
 import RydeFAQ from "../../Components/Ryde/RydeFAQs/RydeFAQ";
-import RydeNavbar from "../../Components/Navbar/RydeNavbar/RydeNavbar";
+// import RydeNavbar from "../../Components/Navbar/RydeNavbar/RydeNavbar";
 import { Link } from "react-router-dom";
 
 const vehiclesulike = [
@@ -41,9 +41,9 @@ function Ryde() {
     <div className="RydePage_Wrapper">
       {/* <RydeNavbar></RydeNavbar> */}
       <div className="vehiclesYouCanBook">
-        {vehiclesulike.map((u) => {
+        {vehiclesulike.map((u, i) => {
           return (
-            <Link to="/carRental">
+            <Link key={i} to="/carRental">
               <VehiclesYouCanBook
                 bgImg={u.bgImg}
                 key={u.heading}

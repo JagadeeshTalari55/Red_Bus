@@ -1,6 +1,6 @@
 import React from "react";
 
-function PartneredRTC({PartneredRTCs}) {
+function PartneredRTC({ PartneredRTCs }) {
   return (
     <>
       <div className="GlobalPresence">
@@ -10,9 +10,9 @@ function PartneredRTC({PartneredRTCs}) {
           <button>View All</button>
         </div>
         <div className="countries">
-          {PartneredRTCs.map((x) => {
+          {PartneredRTCs.map((x, i) => {
             return (
-              <div className="country partneredRtc">
+              <div key={i} className="country partneredRtc">
                 <img src={x.imgLink} alt="" />
                 <h3>{x.title}</h3>
               </div>

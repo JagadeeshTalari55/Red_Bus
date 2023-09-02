@@ -45,7 +45,7 @@ function SeatBooking() {
             <div className="deckBtnsLine">
               {activeBtn.map((x, i) => {
                 return (
-                  <button
+                  <button key={i}
                     className={activeBtn[i] ? "deckBtnsActive" : "deckBtns"}
                     onClick={() => {
                       seatsMngmt(i);

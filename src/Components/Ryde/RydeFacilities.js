@@ -197,9 +197,9 @@ const productInfo = [
 function RydeFacilities() {
   return (
     <div>
-      {productInfo.map((a) => {
+      {productInfo.map((a, i) => {
         return (
-          <div>
+          <div key={i}>
             <h3>{a.x}</h3>
             <p>{a.y}</p>
           </div>

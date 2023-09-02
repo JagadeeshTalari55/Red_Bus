@@ -38,9 +38,9 @@ function PrimoCards() {
           marginTop: "30px",
         }}
       >
-        {PrimoData.map((x) => {
+        {PrimoData.map((x, i) => {
           return (
-            <div className="card primoCard">
+            <div key={i} className="card primoCard">
               <img src={x.imgLink} alt="" />
               <div className="card_content">
                 <h3>{x.title}</h3>

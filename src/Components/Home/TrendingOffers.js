@@ -14,9 +14,10 @@ function TrendingOffers({ second }) {
             marginTop: "30px",
           }}
         >
-          {second.map((x) => {
+          {second.map((x, i) => {
             return (
               <div
+                key={i}
                 className="card"
                 style={{ backgroundColor: x.backgroundColor }}
               >

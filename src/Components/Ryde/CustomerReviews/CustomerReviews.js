@@ -30,9 +30,9 @@ const ridecarts = {
 function CustomerReviews() {
   return (
     <>
-      {ridecarts.products.map((items) => {
+      {ridecarts.products.map((items, i) => {
         return (
-          <>
+          <div key={i}>
             <h3>Customer Reviews</h3>
             <div className="ridecarts">
               <div>
@@ -87,7 +87,7 @@ function CustomerReviews() {
                 <p>{items.para2[3]}</p>
               </div>
             </div>
-          </>
+          </div>
         );
       })}
     </>

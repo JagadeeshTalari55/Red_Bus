@@ -6,9 +6,9 @@ function GlobalPresence({ GlobalPresenceCountries }) {
       <div className="GlobalPresence">
         <h1>GLOBAL PRESENCE</h1>
         <div className="countries">
-          {GlobalPresenceCountries.map((x) => {
+          {GlobalPresenceCountries.map((x, i) => {
             return (
-              <div className="country">
+              <div key={i} className="country">
                 <img src={x.imgLink} alt="" />
                 <h3>{x.title}</h3>
               </div>

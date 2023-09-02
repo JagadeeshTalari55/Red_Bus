@@ -1,7 +1,7 @@
 import React from "react";
-import Sedan from "../../Components/Ryde/CarRental/Sedan";
-import Hatchback from "../../Components/Ryde/CarRental/Hatchback";
-import Suvs from "../../Components/Ryde/CarRental/Suv";
+// import Sedan from "../../Components/Ryde/CarRental/Sedan";
+// import Hatchback from "../../Components/Ryde/CarRental/Hatchback";
+// import Suvs from "../../Components/Ryde/CarRental/Suv";
 import Explanation from "../../Components/Explanation";
 import ImageSlider from "../../Components/ImageSlider";
 import SeatBooking from "../../Components/SeatBooking";
