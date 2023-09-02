@@ -6,73 +6,111 @@ function RydeFooter() {
       <ul type="none">
         <h5>Book</h5>
         <li>
-          <a href="#">Bus Tickets</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Bus Tickets
+          </a>
         </li>
         <li>
-          <a href="#">rYde</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            rYde
+          </a>
         </li>
         <li>
-          <a href="#">Tempo Traveller</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Tempo Traveller
+          </a>
         </li>
         <li>
-          <a href="#">Car Rentals</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Car Rentals
+          </a>
         </li>
         <li>
-          <a href="#">Bus Hire</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Bus Hire
+          </a>
         </li>
       </ul>
       <ul type="none">
         <h5>About</h5>
         <li>
-          <a href="#">About Us</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            About Us
+          </a>
         </li>
         <li>
-          <a href="#">Contact Us</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Contact Us
+          </a>
         </li>
       </ul>
       <ul type="none">
         <h5>Info</h5>
         <li>
-          <a href="#">T & C</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            T & C
+          </a>
         </li>
         <li>
-          <a href="#">Privacy Policy</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Privacy Policy
+          </a>
         </li>
         <li>
-          <a href="#">Cookie Policy</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Cookie Policy
+          </a>
         </li>
         <li>
-          <a href="#">FAQ</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            FAQ
+          </a>
         </li>
       </ul>
       <ul type="none">
         <h5>Global Sites</h5>
         <li>
-          <a href="#">India</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            India
+          </a>
         </li>
         <li>
-          <a href="#">Singapore</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Singapore
+          </a>
         </li>
         <li>
-          <a href="#">Malaysia</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Malaysia
+          </a>
         </li>
         <li>
-          <a href="#">Indonesia</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Indonesia
+          </a>
         </li>
         <li>
-          <a href="#">Peru</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Peru
+          </a>
         </li>
         <li>
-          <a href="#">Colombia</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Colombia
+          </a>
         </li>
       </ul>
       <ul type="none">
         <h5>Our Partners</h5>
         <li>
-          <a href="#">Goibibo</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Goibibo
+          </a>
         </li>
         <li>
-          <a href="#">Makemytrip</a>
+          <a href="https://zoom.us/postattendee?mn=oHV7OHBvOUP5rvo_nad1bfdZXludM49wpBTF.oqzBSzn8s5xLMrgo&id=38">
+            Makemytrip
+          </a>
         </li>
       </ul>
       <div>
