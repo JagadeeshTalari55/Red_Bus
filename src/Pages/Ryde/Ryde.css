@@ -1,0 +1,6 @@
+.vehiclesYouCanBook {
+  display: flex;
+  gap: 1rem;
+  width: 80vw;
+  margin: 3rem auto;
+}

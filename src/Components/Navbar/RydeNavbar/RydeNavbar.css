@@ -1,0 +1,154 @@
+* {
+  /* background: rgb(243, 221, 221); */
+  margin: 0;
+}
+#head {
+  width: 100%;
+  height: 100px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  position: fixed;
+}
+#bus {
+  width: 5rem;
+  height: 3rem;
+  margin-left: 120px;
+  background-color: white;
+}
+#busticket {
+  width: 103px;
+  height: 68px;
+  border-radius: 10px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.5s;
+  position: relative;
+  left: 130px;
+}
+
+#bluebus {
+  width: 40px;
+  height: 30px;
+  background: white;
+}
+
+#ticket {
+  font-size: 18px;
+  background: white;
+}
+#bikeride {
+  width: 103px;
+  height: 68px;
+  border-radius: 10px;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.5s;
+  position: relative;
+  left: 130px;
+}
+
+#bluebike {
+  width: 40px;
+  height: 30px;
+  background: white;
+}
+
+#cabrental {
+  font-size: 18px;
+  background: white;
+}
+#trainride {
+  width: 103px;
+  height: 68px;
+  border-radius: 10px;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.5s;
+  position: relative;
+  left: 130px;
+}
+
+#bluetrain {
+  width: 40px;
+  height: 30px;
+  background: white;
+}
+
+#trainticket {
+  font-size: 18px;
+  background: white;
+  filter: (1) brightness(0);
+}
+#help {
+  width: 103px;
+  height: 68px;
+  border-radius: 10px;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  left: 630px;
+}
+#help img {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+#help span {
+  font-size: 18px;
+  background: white;
+}
+#account {
+  width: 112px;
+  height: 68px;
+  border-radius: 10px;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  left: 630px;
+}
+#person {
+  width: 30px;
+  height: 30px;
+  background: white;
+}
+#account span {
+  font-size: 18px;
+  background: white;
+}
+#doen {
+  width: 15px;
+  height: 15px;
+  background: white;
+}
+#card1 {
+  top: 500px;
+}
+.second {
+  display: grid;
+  align-items: center;
+  text-align: center;
+  padding-top: 11px;
+  margin-top: -1%;
+  background-color: #fff;
+  width: 100%;
+  height: 45px;
+  grid-template-columns: 10% 13% 7% 8% 12% 13% 16% 8% 10%;
+}
+#con {
+  margin-top: 80px;
+  margin-left: 50px;
+}

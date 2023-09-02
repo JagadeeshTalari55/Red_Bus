@@ -1,0 +1,17 @@
+.Navbar {
+  padding: 20px 0px;
+  width: 100vw;
+  background-color: beige;
+}
+
+.navbar_wrapper {
+  width: 70vw;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav_middle_sec {
+  gap: 2rem;
+}

@@ -1,0 +1,38 @@
+h3 {
+  display: flex;
+  color: rgb(49, 43, 43);
+  width: 80vw;
+  font-weight: 780;
+  margin: auto;
+}
+.ridecarts {
+  display: flex;
+  width: 80vw;
+  margin: auto;
+  gap: 20px;
+  /* overflow:scroll;
+    white-space: nowrap; */
+}
+.ridecarts div {
+  max-width: 300px;
+  border: 1px solid #767676;
+  border-radius: 10px;
+  margin: auto;
+  padding: 20px;
+}
+.ridecarts div h4 {
+  display: inline-block;
+  margin-left: 10px;
+  /* border:2px solid #092317; */
+}
+.ridecarts div p {
+  padding-top: 20px;
+}
+.ridecarts span {
+  background-color: #38b87c;
+  color: white;
+  padding-left: 10px;
+  border-radius: 4px;
+  padding-right: 20px;
+  /* border:2px solid #092317; */
+}

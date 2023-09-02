@@ -1,0 +1,115 @@
+.seatBookingParent {
+  border: 5px solid greenyellow;
+  background-color: #eeeded;
+  padding: 40px 20px;
+}
+
+.seatPriceBtnsWrapper {
+  display: flex;
+  /* font-size: 20px; */
+  font-weight: 600;
+  justify-content: space-between;
+  border-bottom: 1px solid grey;
+}
+.seatPriceBtnsWrapper > div {
+  display: flex;
+  align-items: center;
+  padding: 20px 0px;
+  width: 40vw;
+  gap: 3%;
+}
+
+.seatPriceBtn {
+  border: 1px solid #434242;
+  padding: 8px 20px;
+  min-width: 70px;
+  /* font-size: 20px; */
+  font-weight: 600;
+  background-color: #fff;
+}
+
+.seatPriceBtn:hover {
+  background-color: #545454;
+  color: #fff;
+}
+
+.DecksWrapper {
+  padding: 2rem 1rem;
+}
+
+.LowerDeck {
+  background-color: #fff;
+  width: 40vw;
+  height: 30vh;
+  border-left: 7px solid grey;
+  position: relative;
+}
+
+.deckBtns {
+  border: 0.7px solid grey;
+  background-color: #fff;
+  width: 50px;
+  height: 25px;
+  position: relative;
+}
+
+.deckBtnsActive {
+  border: 0.7px solid grey;
+  color: #fff;
+  background-color: #212121;
+  width: 50px;
+  height: 25px;
+  position: relative;
+}
+
+.pillow {
+  border: 0.7px solid grey;
+  background-color: #fff;
+  width: 8px;
+  height: 15px;
+  border-radius: 3px;
+  position: absolute;
+  right: 2px;
+  top: 4px;
+}
+
+.pillowNone {
+  display: none;
+}
+
+.deckBtnsLine {
+  display: flex;
+  gap: 1.5rem;
+  padding-left: 50px;
+}
+
+.LowerDeckPart1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+  position: relative;
+}
+
+.LowerDeck {
+  display: flex;
+  flex-direction: column;
+  gap: 2.25rem;
+}
+
+.steering {
+  font-size: 26px;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  transform: rotate(-90deg);
+}
+
+.DeckLine1 {
+  height: 27vh;
+  width: 1px;
+  background-color: #747373;
+  position: absolute;
+  left: 38px;
+  top: 13px;
+}

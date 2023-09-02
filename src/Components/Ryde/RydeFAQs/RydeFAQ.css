@@ -1,0 +1,14 @@
+.Collapsible {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 15px;
+  }
+  .Collapsible__trigger:hover {
+    background-color: #1446a0;
+  }
+  .Collapsible__outercontent {
+    border: 2px solid black;
+  }

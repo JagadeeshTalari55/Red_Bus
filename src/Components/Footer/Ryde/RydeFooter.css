@@ -1,0 +1,35 @@
+.footer {
+  display: flex;
+  width: 100vw;
+  background-color: #222222;
+  justify-content: space-evenly;
+  padding: 20px 0px 30px 0px;
+}
+.footer li {
+  margin-top: 8px;
+  padding-bottom: 10px;
+  font-size: 12px;
+}
+.footer h5,
+p {
+  color: #a7a7a7;
+  padding: 5px 0px;
+}
+.footer a {
+  color: white;
+  text-decoration: none;
+  font-size: small;
+}
+.footer div {
+  display: flex;
+  color: white;
+  gap: 10px;
+}
+.footer p {
+  width: 250px;
+  margin-top: 100px;
+  font-size: 12px;
+}
+.footer img {
+  width: 30px;
+}

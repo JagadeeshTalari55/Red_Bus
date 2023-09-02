@@ -1,0 +1,113 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background: url(https://s3.rdbuz.com/web/images/homeV2/HomeBannerImg.svg);
+  background-repeat: no-repeat;
+  height: 60vh;
+  background-size: cover;
+  background-position-y: 100px;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 280px;
+  color: #fff;
+  border-radius: 10px;
+  padding: 10px 20px;
+  flex-shrink: 0;
+}
+
+.card img {
+  height: 80px;
+  border-radius: 50%;
+}
+
+.TrendingOffersContainer {
+  width: 60vw;
+  margin: auto;
+  overflow: hidden;
+  padding: 30px;
+  background-color: beige;
+  border-radius: 25px;
+  margin-top: 30px;
+  position: relative;
+  top: -200px;
+}
+
+.SearchBuses {
+  position: relative;
+  top: -300px;
+  left: 440px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  width: 900px;
+  background-color: bisque;
+  /* box-shadow: #b3b3b3; */
+}
+
+.searchBusesElement {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 40px 30px;
+  width: 200px;
+  height: 100px;
+  border-right: 1px solid #b3b3b3;
+  background-color: #fff;
+  font-size: 17px;
+  font-weight: 400;
+  /* border-radius: 20px; */
+}
+
+.element1 {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  width: 300px;
+}
+
+.element2 {
+  width: 300px;
+}
+
+.searchBuses {
+  border-color: transparent;
+  background-color: #d44c53;
+  color: #fff;
+  font-weight: bold;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width: 250px;
+  font-size: 20px;
+}
+
+.countries {
+  display: flex;
+}
+.country {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.primoCard {
+  width: 360px;
+  height: 150px;
+  padding: 30px 10px;
+  border-radius: 15px;
+  background: linear-gradient(90deg, #3648a1, #784686);
+}
+
+.primoCard img {
+  border-radius: 0;
+}
+.partneredRtc img {
+  width: 100px;
+  height: 100px;
+}

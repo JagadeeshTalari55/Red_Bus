@@ -1,0 +1,41 @@
+.VehicalsData {
+  display: flex;
+  width: 75vw;
+  margin: auto;
+  justify-content: space-between;
+  box-shadow: 1px 1px 1px 1px #e3e2e2;
+}
+.VehicalsData div {
+  padding-left: 30px;
+  /* padding-right: 10px; */
+  /* border: 2px solid #000; */
+}
+.ImgHeadings {
+  display: flex;
+  width: 75vw;
+  margin: auto;
+  background-color: #eaf1ff;
+  text-align: center;
+  gap: 190px;
+  padding-left: 50px;
+  /* justify-content: space-between; */
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.btn {
+  background-color: #ed6c6d;
+  color: #ffffff;
+  font-weight: 750;
+  max-height: 40px;
+  margin-top: 29px;
+  margin-right: 20px;
+  padding: 22px;
+  padding-top: 12px;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  /* border: 2px solid #000; */
+}
+.VehicalsImgData {
+  display: inline-block;
+}
