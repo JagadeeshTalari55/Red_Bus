@@ -9,6 +9,7 @@ function MoreAboutRyde() {
       <div style={{ display: "flex" }}>
         <div>
           <iframe
+            title="rebBusRyde"
             id="player"
             width="500"
             height="280"

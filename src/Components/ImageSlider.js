@@ -13,7 +13,7 @@ function ImageSlider() {
   const [count, setCount] = useState(0);
 
   function PrevBtnLogic() {
-    if (count == 0) {
+    if (count === 0) {
       setCount(allImages.length - 1);
     } else {
       setCount(count - 1);
@@ -21,7 +21,7 @@ function ImageSlider() {
   }
 
   function NextBtnLogic() {
-    if (count == allImages.length - 1) {
+    if (count === allImages.length - 1) {
       setCount(0);
     } else {
       setCount(count + 1);
